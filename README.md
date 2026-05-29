@@ -1,6 +1,22 @@
 # markdown_20260529
 
 
+### 4. 코드블록
+**인라인**  
+`ALTER TABLE tcons`
+
+**코드블록**
+
+public class Hello {
+
+	public static void main(String []args){
+		//console : "Hello, world!" 메시지 출력
+		System.out.println("Hello, world!");
+	}
+}
+
+
+
 ### 3. 인용상자
 >여기에는 인용할 내용을 넣으면 됩니다.  
 >빈 줄이 없으면 자동으로 인용 상자에 포함됩니다.  

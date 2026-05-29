@@ -6,7 +6,7 @@
 `ALTER TABLE tcons`
 
 **코드블록**
-
+```
 public class Hello {
 
 	public static void main(String []args){
@@ -14,7 +14,7 @@ public class Hello {
 		System.out.println("Hello, world!");
 	}
 }
-
+```
 
 
 ### 3. 인용상자

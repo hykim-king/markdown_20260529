@@ -1,4 +1,10 @@
 # markdown_20260529
+### 7.
+`이미지 ![링크 텍스트](URL)`
+
+### 6. 링크(Link)
+`[링크 텍스트](URL) 형태로 작성 합니다.`  
+[NAVER CAFE](https://cafe.naver.com/kndjang)  
 
 
 ### 5. 목록

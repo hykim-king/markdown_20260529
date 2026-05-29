@@ -1,5 +1,11 @@
 # markdown_20260529
-### 7.
+
+### 8. 강조
+- Bold : **텍스트** 또는 __text__
+- Italic : *텍스트* 또는 _text_  
+- Bold + Italic : ***텍스트***  
+
+### 7. 이미지 링ㅋ
 `이미지 ![링크 텍스트](URL)`
 ![naver cafe](https://github.com/hykim-king/markdown_20260529/blob/main/doc/cafe_logo.jpg)  
 
